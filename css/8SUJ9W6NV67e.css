@@ -5,8 +5,9 @@
   --gray: #EDF0F4;
   --gray-2: #F5F5F5;
   --gray-3: #CCCCCC;
-  --blue: #0071FE;
-  --red: #F7036F;
+  --green: #03C04A;
+  --red: #DB0000;
+  --blue: #1E90FF;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -92,7 +93,7 @@ h1{
 }
 
 .on {
-    background-color: var(--blue);
+    background-color: var(--green);
     width: 75px;
     height: 35px;
     float: right;
