@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/snapchat-ip_20230327/Snapchat%20Ip.ipa</string>
+					<string>https://archive.org/download/snapchat-hamaexpert-12.25.0-1680636311/Snapchat%2B%2BHAMAEXPERT_12.25.0_1680636311.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.toyopagroup.picaboo</string>
+				<string>com.toyopagroup.picaboo123</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Snapchat Ip</string>
+				<string>Snapchat maybe</string>
 				<key>title</key>
-				<string>Snapchat Ip</string>
+				<string>Snapchat maybe</string>
 			</dict>
 		</dict>
 	</array>

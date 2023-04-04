@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/org-2023-hama-2023.1.7-1680636713/ORG%202023%20-%20HAMA_2023.1.7_1680636713.ipa</string>
+					<string>https://archive.org/download/ppsspp-hamaexpert-1.12.3-185-1680636048/PPSSPP%20-%20HAMAEXPERT%20_1.12.3-185_1680636048.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://archive.org/download/img-0705_202303/IMG_0705.jpg</string>
+					<string>>https://archive.org/download/img-0705_202303/IMG_0705.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://archive.org/download/img-0705_202303/IMG_0705.jpg</string>
+					<string>>https://archive.org/download/img-0705_202303/IMG_0705.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sofeh.ios.musicstudio123</string>
+				<string>org.ppsspp.ppsspp</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Org 2023</string>
+				<string>ppsspp</string>
 				<key>title</key>
-				<string>Org 2023</string>
+				<string>ppsspp</string>
 			</dict>
 		</dict>
 	</array>
